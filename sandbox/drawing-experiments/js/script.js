@@ -39,15 +39,6 @@ function setup() {
     ellipse(225, 140, 5, 5);
     rect(205, 150, 35, 15);
 
-    rectMode(CENTER);
-    // face outline & white
-
-    // rect(250, 250, 300, 300);
-    // // nose
-    // rect(250, 200, 25, 200);
-    // // mouth
-    // arc(250, 300, 200, 100, 0, PI / 2);
-
 }
 
 
