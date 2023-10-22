@@ -1,2 +1,2 @@
 # jsplay
-Playground 
+Playground for JavaScript
