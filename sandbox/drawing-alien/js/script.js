@@ -37,6 +37,9 @@ function setup() {
     // nostrils
     ellipse(215, 140, 5, 5);
     ellipse(225, 140, 5, 5);
+    // mouth
+    stroke(99, 17, 17);
+    strokeWeight(3)
     rect(205, 150, 35, 15);
 
 }
